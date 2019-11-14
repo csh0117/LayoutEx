@@ -14,6 +14,7 @@
         android:id="@+id/editTo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_weight="1"
         android:hint="TO: "
         android:textColorHint="@color/colorWhite" />
 
@@ -21,6 +22,7 @@
         android:id="@+id/subject"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_weight="1"
         android:hint="SUBJECT"
         android:textColorHint="@color/colorWhite" />
 
